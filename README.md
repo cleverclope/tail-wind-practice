@@ -24,7 +24,9 @@ Add the Tailwind directives to your CSS
 Add the @tailwind directives for each of Tailwind’s layers to your main CSS file.
 
 @tailwind base;
+
 @tailwind components;
+
 @tailwind utilities;
 
 Start the Tailwind CLI build process
